@@ -22,6 +22,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
   "BOOST_THREAD_DYN_LINK"
   "LIBBULLET_VERSION=2.88"
   "LIBBULLET_VERSION_GT_282"
+  "hello_EXPORTS"
   )
 
 # The include file search paths:
